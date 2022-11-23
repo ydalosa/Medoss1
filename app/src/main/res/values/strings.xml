@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Medoss1</string>
+    <string name="title_home">MEDECIN</string>
+    <string name="title_dashboard">F.A.Q</string>
+    <string name="title_notifications">MALADE</string>
+    <string name=" ">MEDOSS</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item1 Detail</string>
+</resources>
